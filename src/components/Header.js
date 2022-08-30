@@ -4,7 +4,7 @@ import Typing from "./Typing.js"
 
 function Header() {
   return (
-    <Typing />
+    <Typing text={"Leearn to code with me!"} />
   )
 }
 
